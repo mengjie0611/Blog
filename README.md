@@ -1,7 +1,7 @@
 # 说明
 
 ## 访问地址
-
+https://mengjie0611.github.io/blog/
 
 
 ## 背景音乐
