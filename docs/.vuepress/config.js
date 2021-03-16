@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/blog/',
+  base: '/Blog/',
   title: 'mengjie前端开发',
   description: '一个努力的码农',
   serviceWorker: true,
@@ -28,14 +28,6 @@ module.exports = {
       },
     ],
     sidebar: 'auto',
-    // sidebar: {
-    //   '/timeLine': [
-    //     '/technology/',
-    //     '/essay/',
-    //     '/ponder/',
-    //     '/tags/',
-    //   ]
-    // },
     sidebarDepth: 2,
     lastUpdated: 'Last Updated',
   },
